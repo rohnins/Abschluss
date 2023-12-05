@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\schulverwaltungsapp",
+    "\\schulverwaltungsapp\\gradle",
+    "\\schulverwaltungsapp\\gradle\\wrapper",
+    "\\schulverwaltungsapp\\src",
+    "\\schulverwaltungsapp\\src\\main",
+    "\\schulverwaltungsapp\\src\\main\\java",
+    "\\schulverwaltungsapp\\src\\main\\java\\abschlussapp",
+    "\\schulverwaltungsapp\\src\\main\\java\\abschlussapp\\schulverwaltungsapp"
+  ],
+  "SelectedNode": "\\schulverwaltungsapp\\gradlew.bat",
+  "PreviewInSolutionExplorer": false
+}
